@@ -20,15 +20,15 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Ian Hobbs",
+  initials: "IJ",
+  location: "Sydney, Australia, EST",
+  locationLink: "https://www.google.com/maps/place/Sydney",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Creative with a focus on Web, Photomedia and Coding",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 20 years of experience in working remotely with companies all around the world.",
+  avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "bartosz.jarocki@hey.com",
@@ -105,52 +105,55 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    "Photography",
+    "Studio Photography",
+    "PHP-CMS",
     "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "CSS",
+    "Tailwind",
+    "Project Management",
+    "Web Production",
+    "Animation",
+    "After Effects",
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Clear Control Site",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "KirbyCMS",
+        "Tailwind",
+        "AlpineJS",
+        "GSAP",
+        "Design",
+        "Content"
       ],
-      description: "A platform to build and grow your online business",
+      description: "A business website with seductive animations and strong case study representations",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "clearcontrol.com.au",
+        href: "https://www.clearcontrol.com.au/",
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "Cementa Site",
+      techStack: ["PerchCMS", "AlpineJS", "Blythe", "Content",""],
       description:
-        "Browser extension that records everything happening in a web application",
+        "A festival site showcasing artists and Festival events",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "cementa.com.au",
+        href: "https://cementa.com.au/",
       },
     },
     {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      title: "A Thousand Words",
+      techStack: ["PerchCMS", "AlpineJS", "Animation"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "A website of the Museum of Sydney 'A Thousand Words' exhibition",
       logo: JarockiMeLogo,
       link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
+        label: "atwonline.com.au",
+        href: "https://atwonline.com.au",
       },
     },
     {
