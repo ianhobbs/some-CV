@@ -366,5 +366,30 @@ export const RESUME_DATA = {
         href: "https://www.rejmyreartlab.org/",
       },
     },
+    {
+      title: "Architectural Photography",
+      techStack: ["Photograpy"],
+      description:
+        "Architectural work",
+      logo: BimLogo,
+      
+      link: {
+        label: "ianhobbsmedia.com.au/architecture",
+        href: "https://ianhobbsmedia.com.au/architecture",
+      },
+    },
+
+    {
+      title: "Video Animation",
+      techStack: ["Video"],
+      description:
+        "Video Work",
+      logo: BimLogo,
+      
+      link: {
+        label: "ianhobbsmedia.com.au/video-animation",
+        href: "https://ianhobbsmedia.com.au/video-animation",
+      },
+    },
   ],
 } as const;
