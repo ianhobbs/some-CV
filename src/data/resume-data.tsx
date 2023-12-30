@@ -212,7 +212,8 @@ export const RESUME_DATA = {
         "AlpineJS",
         "GSAP",
         "Design",
-        "Content"
+        "Content",
+        "Full Stack Developer",
       ],
       description: "Created a business website with seductive animations and strong case study representations",
       logo: ConsultlyLogo,
@@ -255,7 +256,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Thought Train",
+      title: "Thought Train Animation",
       techStack: ["After Effects","Video"],
       description:
         "Animation for Wynscreen Video project with Robyn Backen",
@@ -276,53 +277,51 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Parabol",
+      title: "Australian Ceramics Website",
       techStack: [
         "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "PerchCMS",
+        "AlpineJS",
+        "HTMLX",
       ],
       description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "An e-commerce site for Australian Ceramics Organisation",
       logo: ParabolLogo,
       link: {
-        label: "github.com",
-        href: "https://parabol.co/",
+        label: "australianceramics.com",
+        href: "https://australianceramics.com",
       },
     },
     {
-      title: "Evercast",
+      title: "Rosie Boylan Website",
       techStack: [
-        "Lead Frontend Developer",
-
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "Full Stack Developer",
+        "Wordpress",
+        "Shopify",
+        "liquid",
+        "Product Manager"
       ],
       description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
+        "An e-commerce site and shopify store for Rosie Boylan Headwear",
       logo: EvercastLogo,
       link: {
-        label: "evercast.us",
-        href: "https://www.evercast.us/",
+        label: "rosieboylan.com",
+        href: "https://rosieboylan.com",
       },
     },
     {
-      title: "Mobile Vikings",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Sue Pedley Site",
+      techStack: ["KirbyCMS", "Front End Dev", "AlpineJS"],
       description:
-        "Android application for leading virtual mobile operator in Poland",
+        "Portfolio site for Sue Pedley",
       logo: MobileVikingsLogo,
       link: {
-        label: "mobilevikings.pl",
-        href: "https://mobilevikings.pl/",
+        label: "suepedley.com.au",
+        href: "https://suepedley.com.au/",
       },
     },
     {
-      title: "Howdy",
+      title: "Turpin Crawford Studios",
       techStack: ["Lead Android Developer", "Android", "Kotlin"],
       description:
         "Howdy is a place for you to join communities you care about",
