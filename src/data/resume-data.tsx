@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Creative with a focus on Web, Photomedia and Coding",
   summary:
-    "Thanks to everyone who helped. Gratefull for ALL my client's support.",
+    "Thanks to everybody who helped. Gratefull for everyone's support.",
 
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
