@@ -355,6 +355,20 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Nano-black",
+      techStack: [
+        "Browser Plugin",
+        "HTML hack",
+      ],
+      description:
+        "Makes every picture black",
+      logo: EvercastLogo,
+      link: {
+        label: "github.com/ianhobbs/nano_black",
+        href: "https://github.com/ianhobbs/nano_black",
+      },
+    },
+    {
       title: "Rejmyre Art Lab Site",
       techStack: ["Web Development","PerchCMS"],
       description:
