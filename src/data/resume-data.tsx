@@ -29,24 +29,24 @@ export const RESUME_DATA = {
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 20 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://ianhobbsmedia.com.au",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "admin@ianhobbsmedia.com.au",
+    tel: "+61411032601",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/ianhobbs",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/ianhobbs/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/ianHobbs_media",
         icon: XIcon,
       },
     ],
@@ -175,7 +175,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Clear Control Site",
+      title: "Clear Control Website",
       techStack: [
         "KirbyCMS",
         "Tailwind",
@@ -184,7 +184,7 @@ export const RESUME_DATA = {
         "Design",
         "Content"
       ],
-      description: "A business website with seductive animations and strong case study representations",
+      description: "Created a business website with seductive animations and strong case study representations",
       logo: ConsultlyLogo,
       link: {
         label: "clearcontrol.com.au",
@@ -192,7 +192,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Cementa Site",
+      title: "Cementa Website",
       techStack: ["PerchCMS", "AlpineJS", "Blythe", "Content",""],
       description:
         "A festival site showcasing artists and Festival events",
@@ -203,7 +203,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "A Thousand Words",
+      title: "A Thousand Words Website",
       techStack: ["PerchCMS", "AlpineJS", "Animation"],
       description:
         "A website of the Museum of Sydney 'A Thousand Words' exhibition",
@@ -214,25 +214,25 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Minimal",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Uno",
+      techStack: ["After Effects","Video"],
       description:
-        "Minimalist calendars, habit trackers and planners generator",
+        "Develop animations for custom Architectural LED screens for Robyn Backen",
       logo: Minimal,
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
+        label: "ianhobbsmedia.com.au/uno",
+        href: "https://ianhobbsmedia.com.au/uno",
       },
     },
     {
-      title: "Barepapers",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      title: "Thought Train",
+      techStack: ["After Effects","Video"],
       description:
-        "Generates beautiful wallpapers using random shapes and gradients",
+        "Animation for Wynscreen Video project with Robyn Backen",
       logo: BarepapersLogo,
       link: {
-        label: "barepapers.com",
-        href: "https://barepapers.com/",
+        label: "ianhobbsmedia.com.au/thought-train",
+        href: "https://ianhobbsmedia.com.au/thought-train",
       },
     },
     {
