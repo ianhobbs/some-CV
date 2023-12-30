@@ -27,7 +27,8 @@ export const RESUME_DATA = {
   about:
     "Creative with a focus on Web, Photomedia and Coding",
   summary:
-    "As a Creative Technologist, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with Php and Front-end code, photography, and video. I have over 20 years of experience in working with the arts sector and businesses creating content.",
+    "Thanks to everyone who helped. Gratefull for ALL my client's support.",
+
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
   contact: {
@@ -321,47 +322,49 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Turpin Crawford Studios",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Turpin Crawford Studios Site",
+      techStack: ["Web development", "Photography", "Video","PerchCMS"],
       description:
-        "Howdy is a place for you to join communities you care about",
+        "Portfolio web development for some lovely artists. Lots of Video and photo.",
       logo: Howdy,
       link: {
-        label: "play.google.com",
-        href: "https://howdy.co/",
+        label: "turpincrawfordstudio.com.au/",
+        href: "https://turpincrawfordstudio.com.au/",
       },
     },
     {
-      title: "Tastycloud",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Skin 8",
+      techStack: ["Web Development", "Static HTML","Pug","Sass"],
       description:
-        "Android application for managing and displaying restaurant menus in kiosk mode",
+        "A nice high end fashion brand site by Lucy Walker",
       logo: TastyCloudLogo,
       link: {
-        label: "tastycloud.fr",
-        href: "https://www.tastycloud.fr/",
+        label: "ianhobbsmedia.com.au/skin8",
+        href: "https://ianhobbsmedia.com.au/skin8",
       },
     },
     {
-      title: "Ambit",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "A Thousand Words Video",
+      techStack: ["After Effects"],
       description:
-        "Android application that helps with sharing your contact details",
+        "Exibiton animation of word clouds",
       logo: AmbitLogo,
+      link: {
+        label: "ianhobbsmedia.com.au/a-thousand-words",
+        href: "https://ianhobbsmedia.com.au/a-thousand-words",
+      },
     },
     {
-      title: "Bim",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
+      title: "Rejmyre Art Lab Site",
+      techStack: ["Web Development","PerchCMS"],
       description:
-        "Android application that helps with booking a table in a restaurants",
+        "A Swedish art org's home site wonderful research.",
       logo: BimLogo,
-    },
-    {
-      title: "Canal Digital GO",
-      techStack: ["Lead Android Developer", "Android", "Kotlin"],
-      description:
-        "Video streaming mobile application for Canal Digital subscribers",
-      logo: CDGOLogo,
+      
+      link: {
+        label: "rejmyreartlab.org/",
+        href: "https://www.rejmyreartlab.org/",
+      },
     },
   ],
 } as const;
