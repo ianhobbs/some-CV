@@ -183,6 +183,25 @@ export default function Page() {
             })}
           </div>
         </Section>
+        <Section>
+          <h2 className="text-xl font-bold mt-3">Awards & Collections</h2>
+          {RESUME_DATA.awards.map((awards) => {
+            return (
+              <Card key={awards.award}>
+                <CardHeader>
+                  <div className="flex items-center justify-between gap-x-2 text-base">
+                    <p className="mt-0 text-sm">
+                      {awards.award}
+                    </p>
+                    <div className="text-sm tabular-nums text-gray-500">
+                      {awards.year}
+                    </div>
+                  </div>
+                </CardHeader>
+              </Card>
+            );
+          })}
+        </Section>
       </section>
 
       <CommandMenu

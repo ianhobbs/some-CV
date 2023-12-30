@@ -160,6 +160,36 @@ export const RESUME_DATA = {
       description: "Design and deliver courses in New media, Flash, Web Photo-media, Design. Animation",
     }
   ],
+
+
+  awards: [
+    {
+      award: "Recipient of Premiers Department Grant with Penrith Regional Gallery",
+      year: "2003",
+    },
+    {
+      award: "Recipient of New Media Grant for Interactive Works, Australia Council.",
+      year: "1999",
+    },
+    {
+      award: "The Art Directors Club, New York, NY 75th Awards, 'Merit Award for Editorial Publications' for Object Magazine, Craft Council of NSW.",
+      year: "1996",
+    },
+    {
+      award: "National Gallery of Australia Collection. 'Sea Shell Headset' Joyce Hinterding & Ian Hobbs",
+      year: "1988",
+    },
+    {
+      award: "National Gallery of Australia Collection. Poster, 'May 1st Club - Smash Capital'.",
+      year: "1983",
+    },
+
+
+  ],
+
+
+  // end insert
+  
   skills: [
     "Photography",
     "Studio Photography",
