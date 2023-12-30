@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Creative with a focus on Web, Photomedia and Coding",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 20 years of experience in working remotely with companies all around the world.",
+    "As a Creative Technologist, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with Php and Front-end code, photography, and video. I have over 20 years of experience in working with the arts sector and businesses creating content.",
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
   contact: {
@@ -53,16 +53,16 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "University of Sydney, Sydney College of Art",
+      degree: "BA(Hons) Major in Photomedia / Electronic Media",
+      start: "1997",
+      end: "1998",
     },
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "University of NSW",
+      degree: "Bachelor's Degree in Fine Art, Major in Photomedia",
+      start: "1980",
+      end: "1984",
     },
   ],
   work: [
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       title: "Owner",
       logo: ParabolLogo,
       start: "2020",
-      end: "2024 ongoing",
+      end: "now",
       description:
         "Web production. Experience includes; Videographer, Editor, Photographer,Front-end development, Animator, Storyboarding, Prototype development,Design, Server management and Data management. Client and project management. Art direction and concept development. Media strategy and Editorial strategy.",
     },
@@ -84,7 +84,7 @@ export const RESUME_DATA = {
       title: "Owner",
       logo: ClevertechLogo,
       start: "2011",
-      end: "2024 ongoing",
+      end: "now",
       description:
         "Hosting server and site maintenance. Server management and Data management. Client service. Backup management. Site optimisation. Threat mitigation",
     },
@@ -236,13 +236,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Year progress",
-      techStack: ["Side Project", "TypeScript", "Next.js"],
-      description: "Tracks current year progress and displays a countdown",
+      title: "Art Photography",
+      techStack: ["Art Reproduction"],
+      description: "Fine Art documentation projects",
       logo: YearProgressLogo,
       link: {
-        label: "getyearprogress.com",
-        href: "https://getyearprogress.com/",
+        label: "ianhobbsmedia.com.au/art",
+        href: "https://ianhobbsmedia.com.au/art",
       },
     },
     {
