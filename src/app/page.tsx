@@ -211,7 +211,8 @@ export default function Page() {
                 <CardHeader>
                   <div className="flex items-center justify-between gap-x-2 text-base">
                     <p className="mt-0 text-sm">
-                      {published.title}
+                      <span class="font-bold">{published.title} </span>
+                      {published.pub}
                     </p>
                     <div className="text-sm tabular-nums text-gray-500">
                       {published.year}
