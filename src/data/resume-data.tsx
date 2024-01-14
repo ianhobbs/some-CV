@@ -188,6 +188,29 @@ export const RESUME_DATA = {
 
   ],
 
+  published: [
+    {
+      title: "Chester Nealie Etched in Fire",
+      year: "Ron Sang Publications NZ 2016",
+    },
+    {
+      title: "Robyn Backen: Backspace",
+      year: "Boccolate Publishing AU 2011",
+    },
+    {
+      title: "Liz Williamson: Textiles",
+      year: "Craft Council of NSW AU 2009",
+    },
+    {
+      title: "For Mathew and Others: Journey with Schizophrenia",
+      year: "The University of New South Wales & (others) AU 2006",
+    },
+    {
+      title: "Degree Show 1998 Sydney College of the Arts The University of Sydney: Catalogue",
+      year: "Sydney College of The Arts AU 1998",
+    },
+  ],
+
 
   // end insert
   

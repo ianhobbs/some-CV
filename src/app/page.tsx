@@ -202,6 +202,26 @@ export default function Page() {
             );
           })}
         </Section>
+        <Section>
+          <h2 className="text-xl font-bold mt-3">Published Works</h2>
+          <p>Significant contributions in published works / books / websites</p>
+          {RESUME_DATA.published.map((published) => {
+            return (
+              <Card key={published.title}>
+                <CardHeader>
+                  <div className="flex items-center justify-between gap-x-2 text-base">
+                    <p className="mt-0 text-sm">
+                      {published.title}
+                    </p>
+                    <div className="text-sm tabular-nums text-gray-500">
+                      {published.year}
+                    </div>
+                  </div>
+                </CardHeader>
+              </Card>
+            );
+          })}
+        </Section>
       </section>
 
       <CommandMenu
