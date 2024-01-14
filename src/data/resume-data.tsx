@@ -210,7 +210,7 @@ export const RESUME_DATA = {
       year: "2006",
     },
     {
-      title: "Degree Show 1998 Sydney College of the Arts The University of Sydney: Catalogue",
+      title: "Degree Show 1998 SCA The University of Sydney: Catalogue",
       pub: "Sydney College of The Arts AU",
       year: "1998",
     },
