@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Sydney, Australia, EST",
   locationLink: "https://www.google.com/maps/place/Sydney",
   about:
-    "Creative with a focus on Web, Photomedia and Coding",
+    "Photographer Coder Artist",
   summary:
-    "Thanks to everybody who helped. Gratefull for everyone's support.",
+    "Ian Hobbs specialist art photographer and coder",
 
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
