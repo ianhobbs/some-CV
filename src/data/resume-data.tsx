@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Photographer Coder Artist",
   summary:
-    "Ian Hobbs ia a specialist photographer and coder. He creates engaging media experiences for the arts industry. ",
+    "Ian Hobbs ia a specialist photographer and coder. He creates engaging media experiences for the arts industry.",
 
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
