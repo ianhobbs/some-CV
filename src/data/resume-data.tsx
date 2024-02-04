@@ -70,8 +70,8 @@ export const RESUME_DATA = {
     {
       company: "Ian Hobbs Media",
       link: "https://ianhobbsmedia.com.au",
-      badges: [],
-      title: "Owner",
+      badges: ["current"],
+      title: "Media",
       logo: ParabolLogo,
       start: "2000",
       end: "now",
@@ -81,8 +81,8 @@ export const RESUME_DATA = {
     {
       company: "Codey",
       link: "https://codey.com.au",
-      badges: [],
-      title: "Owner",
+      badges: ["current"],
+      title: "Web",
       logo: ClevertechLogo,
       start: "2011",
       end: "now",
