@@ -159,7 +159,38 @@ export const RESUME_DATA = {
       start: "2001",
       end: "2006",
       description: "Design and deliver courses in New media, Flash, Web Photo-media, Design. Animation",
-    }
+    },
+    {
+      company: "Doubleday Australia Pty.Ltd",
+      link: "https://www.doubleday.com.au/",
+      badges: ["Fulltime"],
+      title: "Photographer",
+      logo: NSNLogo,
+      start: "1996",
+      end: "1997",
+      description: "Producing studio product photography for direct marketing. Maintaining accounts and equipment",
+    },
+    {
+      company: "Computer Images, Crows Nest NSW",
+      link: " ",
+      badges: ["Fulltime"],
+      title: "Camera Operator",
+      logo: NSNLogo,
+      start: "1990",
+      end: "1992",
+      description: "Operate and manage small photographic studio servicing internal graphic needs; maintain budget; operate a Rostrum camera to create film dupes and matts; location, corporate, architectural, product and interior photography.",
+    },
+    {
+      company: " David Graphics Pty. Ltd Sydney",
+      link: " ",
+      badges: ["Fulltime"],
+      title: "Photographer",
+      logo: NSNLogo,
+      start: "1989",
+      end: "1992",
+      description: "Operate and manage small photographic studio servicing internal graphic needs; maintain budget; product photography for retail catalogues.",
+    },
+    
   ],
 
 
@@ -222,15 +253,10 @@ export const RESUME_DATA = {
   skills: [
     "Photography",
     "Studio Photography",
-    "PHP-CMS",
-    "JavaScript",
-    "CSS",
-    "Tailwind",
     "Project Management",
     "Web Production",
     "Animation",
     "After Effects",
-    "Audio production"
   ],
   projects: [
     {
@@ -286,7 +312,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Thought Train Animation",
-      techStack: ["After Effects","Video"],
+      techStack: ["Video", "Website"],
       description:
         "Animation for Wynscreen Video project with Robyn Backen",
       logo: BarepapersLogo,
@@ -303,6 +329,19 @@ export const RESUME_DATA = {
       link: {
         label: "ianhobbsmedia.com.au/art",
         href: "https://ianhobbsmedia.com.au/art",
+      },
+    },
+    {
+      title: "Research on Cultural and Religious Diversity",
+      techStack: [
+        "Photographer",
+      ],
+      description:
+        "Photographer for Dijana Alic's research research UNSW",
+      logo: ParabolLogo,
+      link: {
+        label: "ianhobbsmedia.com.au",
+        href: "https://ianhobbsmedia.com.au/architecture",
       },
     },
     {
