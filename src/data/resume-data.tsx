@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Photographer Coder Artist",
   summary:
-    "Ian Hobbs specialist art photographer and coder",
+    "Ian Hobbs specialist art photographer and coder creates media experiences for the arts industry",
 
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
@@ -56,14 +56,14 @@ export const RESUME_DATA = {
     {
       school: "University of Sydney, Sydney College of Art",
       degree: "BA(Hons) Major in Photomedia / Electronic Media",
-      start: "1997",
-      end: "1998",
+      start: "1998",
+      end: "1999",
     },
     {
       school: "University of NSW",
       degree: "Bachelor's Degree in Fine Art, Major in Photomedia",
       start: "1980",
-      end: "1984",
+      end: "1985",
     },
   ],
   work: [
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       badges: [],
       title: "Owner",
       logo: ParabolLogo,
-      start: "2020",
+      start: "2000",
       end: "now",
       description:
         "Web production. Experience includes; Videographer, Editor, Photographer,Front-end development, Animator, Storyboarding, Prototype development,Design, Server management and Data management. Client and project management. Art direction and concept development. Media strategy and Editorial strategy.",
@@ -279,7 +279,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Cementa Website",
-      techStack: ["PerchCMS", "AlpineJS", "Blythe", "Content",""],
+      techStack: ["PerchCMS", "Web Production","Content","Photography"],
       description:
         "A festival site showcasing artists and Festival events",
       logo: MonitoLogo,
@@ -290,7 +290,7 @@ export const RESUME_DATA = {
     },
     {
       title: "A Thousand Words Website",
-      techStack: ["PerchCMS", "AlpineJS", "Animation"],
+      techStack: ["Web Production","Animation"],
       description:
         "A website of the Museum of Sydney 'A Thousand Words' exhibition",
       logo: JarockiMeLogo,
@@ -308,6 +308,17 @@ export const RESUME_DATA = {
       link: {
         label: "ianhobbsmedia.com.au/uno",
         href: "https://ianhobbsmedia.com.au/uno",
+      },
+    },
+    {
+      title: "Northwest Metro Rail-link",
+      techStack: ["Photography"],
+      description:
+        "Photography of the North West Rail link Metro project",
+      logo: Minimal,
+      link: {
+        label: "ianhobbsmedia.com.au/northwest",
+        href: "https://ianhobbsmedia.com.au/northwest-metro-architectural-photography",
       },
     },
     {
