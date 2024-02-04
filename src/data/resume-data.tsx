@@ -76,7 +76,7 @@ export const RESUME_DATA = {
       start: "2000",
       end: "now",
       description:
-        "Web production. Experience includes; Videographer, Editor, Photographer,Front-end development, Animator, Storyboarding, Prototype development,Design, Server management and Data management. Client and project management. Art direction and concept development. Media strategy and Editorial strategy.",
+        "Experience includes; Videographer, Editor, Photographer, Front-end development, Animator, Design, Web production, Server and Data Management. Client and Project Management. Art Direction, Concept development. Media strategy and Editorial strategy.",
     },
     {
       company: "Codey",
@@ -87,7 +87,7 @@ export const RESUME_DATA = {
       start: "2011",
       end: "now",
       description:
-        "Hosting server and site maintenance. Server management and Data management. Client service. Backup management. Site optimisation. Threat mitigation",
+        "Server and site maintenance. Server management and Data management. Client service. Backup management. Site optimisation. Threat mitigation",
     },
     {
       company: "Sydney University SCA",
