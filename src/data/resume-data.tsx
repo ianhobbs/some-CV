@@ -68,6 +68,17 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Museum and Art Gallery of Nothern Territory",
+      link: "https://magnt.net.au",
+      badges: ["current"],
+      title: "Digitisation Officer",
+      logo: ParabolLogo,
+      start: "2024",
+      end: "current",
+      description:
+        "Digitising Collections and managing data assets",
+    },
+    {
       company: "Ian Hobbs Media",
       link: "https://ianhobbsmedia.com.au",
       badges: ["current"],
