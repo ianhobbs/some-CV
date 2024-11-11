@@ -81,7 +81,7 @@ export const RESUME_DATA = {
     {
       company: "Museum and Art Gallery of Nothern Territory",
       link: "https://magnt.net.au",
-      badges: ["current"],
+      badges: ["Fulltime"],
       title: "Digitisation Officer",
       logo: ParabolLogo,
       start: "04/2024",
