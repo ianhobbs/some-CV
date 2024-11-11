@@ -68,17 +68,6 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Museum and Art Gallery of Nothern Territory",
-      link: "https://magnt.net.au",
-      badges: ["current"],
-      title: "Digitisation Officer",
-      logo: ParabolLogo,
-      start: "2024",
-      end: "current",
-      description:
-        "Digitising Collections and managing data assets",
-    },
-    {
       company: "Ian Hobbs Media",
       link: "https://ianhobbsmedia.com.au",
       badges: ["current"],
@@ -88,6 +77,17 @@ export const RESUME_DATA = {
       end: "now",
       description:
         "Experience includes; Videographer, Editor, Photographer, Front-end development, Animator, Design, Web production, Server and Data Management. Client and Project Management. Art Direction, Concept development. Media strategy and Editorial strategy.",
+    },
+    {
+      company: "Museum and Art Gallery of Nothern Territory",
+      link: "https://magnt.net.au",
+      badges: ["current"],
+      title: "Digitisation Officer",
+      logo: ParabolLogo,
+      start: "04/2024",
+      end: "10/2024",
+      description:
+        "Digitising Collections and managing data assets",
     },
     {
       company: "Codey",
