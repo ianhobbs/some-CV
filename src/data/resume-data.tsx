@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Sydney, Australia, EST",
   locationLink: "https://www.google.com/maps/place/Sydney",
   about:
-    "Photographer Coder Artist",
+    "Photographer | Coder | Creative Technologist",
   summary:
-    "Ian Hobbs ia a specialist photographer and coder. He creates engaging media experiences for the arts / design industries.",
+    "Ian Hobbs ia a specialist photographer & coder. He creates engaging media experiences for arts and business communities. Comfortable and highly accopmlished as a photographer who also enjoys publishing and media strategy. Hobbies include sailing and music composition.",
 
   avatarUrl: "https://avatars.githubusercontent.com/ianhobbs",
   personalWebsiteUrl: "https://ianhobbsmedia.com.au",
@@ -46,8 +46,8 @@ export const RESUME_DATA = {
         icon: LinkedInIcon,
       },
       {
-        name: "X",
-        url: "https://twitter.com/ianHobbs_media",
+        name: "Instagram",
+        url: "https://www.instagram.com/ianhobbs_media/",
         icon: XIcon,
       },
     ],
