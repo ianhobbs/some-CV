@@ -87,7 +87,7 @@ export const RESUME_DATA = {
       start: "04/2024",
       end: "10/2024",
       description:
-        "Digitising Collections and managing data assets. Docuementation of collection works with Fuji GFX100 and PhaseOne cameras. Digitising to FADGI-4 standards using a varueity of ICC managamant profiles. File archive and managment with Neofinder and Bash scripting. Cpature-One-Pro Photoshop and other image management applications.",
+        "Digitising Collections and managing data assets. Docuementation of collection works with Fuji GFX100 and PhaseOne cameras. Digitising to FADGI-4 standards using a varueity of ICC managamant profiles. File archive and managment with Neofinder and Bash scripting. Capture-One-Pro Photoshop and other image management applications.",
     },
     {
       company: "Codey",
@@ -336,7 +336,7 @@ export const RESUME_DATA = {
       title: "Thought Train Animation",
       techStack: ["Video", "Website"],
       description:
-        "Animation for Wynscreen Video project with Robyn Backen",
+        "Animation for Wynscreen Video project with Robyn Backen. After Effects motion graphics",
       logo: BarepapersLogo,
       link: {
         label: "ianhobbsmedia.com.au/thought-train",
@@ -345,8 +345,8 @@ export const RESUME_DATA = {
     },
     {
       title: "Art Photography",
-      techStack: ["Art Reproduction"],
-      description: "Fine Art documentation projects",
+      techStack: ["Art Reproduction, Hasselblad, Colour management"],
+      description: "Fine Art documentation projects. Documentation and production using Hasselblad X1d camera.",
       logo: YearProgressLogo,
       link: {
         label: "ianhobbsmedia.com.au/art",
