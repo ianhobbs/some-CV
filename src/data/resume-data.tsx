@@ -48,7 +48,7 @@ export const RESUME_DATA = {
       {
         name: "Instagram",
         url: "https://www.instagram.com/ianhobbs_media/",
-        icon: XIcon,
+        icon: Insta,
       },
     ],
   },
