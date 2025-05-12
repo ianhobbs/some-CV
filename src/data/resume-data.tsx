@@ -87,7 +87,7 @@ export const RESUME_DATA = {
       start: "04/2024",
       end: "10/2024",
       description:
-        "Digitising Collections and managing data assets",
+        "Digitising Collections and managing data assets. Docuementation of collection works with Fuji GFX100 and PhaseOne cameras. Digitising to FADGI-4 standards using a varueity of ICC managamant profiles. File archive and managment with Neofinder and Bash scripting. Cpature-One-Pro Photoshop and other image management applications.",
     },
     {
       company: "Codey",
