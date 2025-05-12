@@ -268,6 +268,15 @@ export const RESUME_DATA = {
     "Web Production",
     "Animation",
     "After Effects",
+    "FADGI colour control",
+    "ICC profile generation: Delta 1.4",
+    "Capture One Pro",
+    "Photoshop",
+    "SEO",
+    "Full Stack Development",
+    "E-comm management",
+    "Bash scripting",
+    "KirbyCMS",
   ],
   projects: [
     {
